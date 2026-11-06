@@ -6,7 +6,7 @@ When a Jira, Confluence, or internal-tool session expires, you log in again and 
 
 ## Install
 
-Install AuthSync from the Mac App Store (Pending Review).
+Install [AuthSync from the Mac App Store](https://apps.apple.com/app/idAPPLE_ID).
 
 The guide is the [wiki](https://github.com/drecrumbs/AuthSync/wiki). It also covers a manual install for Safari, Chrome, and Firefox.
 
