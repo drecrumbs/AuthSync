@@ -6,9 +6,9 @@ When a Jira, Confluence, or internal-tool session expires, you log in again and 
 
 ## Install
 
-Install [AuthSync from the Mac App Store](https://apps.apple.com/us/app/authsync-tabs/id6830382187).
+Install [AuthSync from the Mac App Store](https://apps.apple.com/us/app/authsync-tabs/id6830382187). That install remains after a restart.
 
-The guide is the [wiki](https://github.com/drecrumbs/AuthSync/wiki). It also covers a manual install for Safari, Chrome, and Firefox.
+The guide is the [wiki](https://github.com/drecrumbs/AuthSync/wiki). When nothing refreshes, start with [Nothing refreshed](https://github.com/drecrumbs/AuthSync/wiki/Nothing-refreshed). A manual load for Chrome and Firefox is in the wiki as well. The Chrome load stays on developer mode, and Firefox removes the add-on when it quits.
 
 ## Privacy
 
